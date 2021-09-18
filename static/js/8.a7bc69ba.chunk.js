@@ -1,2 +1,0 @@
-(this["webpackJsonpmy-app"]=this["webpackJsonpmy-app"]||[]).push([[8],{118:function(t,e,c){"use strict";c.r(e);var i,n=c(4),a=c(5),s=Object(a.b)("img")(i||(i=Object(n.a)(["\n  width: 100%;\n  height: auto;\n"]))),r=c(106),h=c(1);e.default=function(t){var e=t.image_path;return Object(h.jsx)("div",{children:Object(h.jsx)(r.a,{direction:"left",children:Object(h.jsx)("div",{children:Object(h.jsx)(s,{src:e})})})})}}}]);
-//# sourceMappingURL=8.a7bc69ba.chunk.js.map
